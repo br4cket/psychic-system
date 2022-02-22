@@ -7,7 +7,7 @@ build:
     # Install python before loading sphinx command
     install:
       - method: pip
-      path: .
+        path: .
 
 sphinx:
   fail_on_warning: true
